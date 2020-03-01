@@ -4,7 +4,7 @@ const tmi = require('tmi.js');
 const opts = {
   identity: {
     username: 'Hopalonghacksaw',
-    password: 'oauth:zzw2s1vxpfz5bt6ny802ettu7rygby'
+    password: 'oath:'
   },
   channels: [
     'Hopalonghacksaw'
